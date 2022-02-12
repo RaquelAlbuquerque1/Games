@@ -1,0 +1,91 @@
+P:Mouse
+D:1.Comanda a execução de ações do usuário
+D:2.Move o cursor na tela 
+D:3.Possui dois botões e uma "rodinha chamada" scroll
+D:4.Seu botão esquerdo que serve para abrir e executar funções
+D:5.Seu botão direito permite acessar as funções adicionais dos comandos
+P:HD
+D:1.Acomodado no gabinete e ligado à placa mãe
+D:2.Pode ser substítuido ou usado em conjunto com um SSD
+D:3.Armazena dados independente da máquina estar ligada ou não
+D:4.Sua capacidade é medida em GB ou TB
+D:5.Determina o tempo de abertura e carregamento dos programas, além do salvamento dos arquivos
+P:Processador
+D:1.Pode ser AMD Ryzen ou Intel
+D:2.A sua função é acelerar, endereçar, resolver ou preparar dados, dependendo da aplicação.
+D:3.Unidade central de processamento de um computador (CPU)
+D:4.Conhecido como o cérebro do computador, pois interage e faz as conexões necessárias entre todos os programas instalados
+D:5.Processa+dor
+P:Cooler
+D:1.Mini ventilador para componentes eletrônicos
+D:2.Responsável pela ventilação e controle de temperatura dos componentes
+D:3.Pode ser traduzido como refrigerador 
+D:4.Pode ser Air, Water ou heat pipe
+D:5.é confundido com recipientes térmicos destinados a conservar bebidas em baixa temperatura e por um longo tempo
+P:Fonte
+D:1.Recebe a energia da tomada
+D:2.Responsável pela alimentação de energia dos outros componentes
+D:3.Pode ser linear ou chaveada
+D:4.Pode ser AT ou ATX
+D:5.Existem de 500W,300W,750w, dentre outros.
+P:Javascript
+D:1.React é um dos frameworks que derivam-se dela
+D:2.Seu NOME surgiu do Java,mas as duas não tem nada a ver 
+D:3.Script implementado em navegadores web
+D:4.Linguagem mais usada atualmente em aplicações web
+D:5.Responsável pela interação client/server
+P:Java
+D:1.É orientada a objetos 
+D:2.Criada pela Sun mas atualmente controlada pela Oracle
+D:3.Sua logo é uma xícara de café
+D:4.Seu mascote é o Ducke 
+D:5.Inicialmente chamada de Oak é utilizada 
+P:Desenvolvedor
+D:1.Pode ser FrontEnd, BackEnd, Mobile ou FullStack
+D:2.Responsável pela programação de sistemas por meio da escrita de códigos digitais(linguagens de programação)
+D:3.Popularmente conhecido como programador ou Dev
+D:4.Possui os níveis Júnior, Pleno e Sênior
+D:5.Tem sido os criadores de muitas startups que estão surgindo atualmente.
+P:Designer
+D:1.Pode ser Gráfico,UI, UX ou UI/UX
+D:2.Soluciona um problema por meio da manipulação de atributos visuais.
+D:3.Pode ser traduzido como desenhista ou projetista 
+D:4.Faz o protótipo visual das aplicações que os programadores iram codificar
+D:5.O termo refere-se a um agente que "especifica as propriedades estruturais de um objecto de design". 
+P:DevOps
+D:1.Contração de development e operations
+D:2.Na engenharia de software aproxima os desenvolvedores de software (Dev) e os operadores do software / administradores do sistema (Ops)
+D:3.Propósito de entregar de maneira ágil e contínua, valor e melhor experiência ao cliente.
+D:4.Auxilia empresas no gerenciamento de lançamento de novas versões
+D:5.Processos simples se tornam claramente articuláveis através dele.
+P:Netflix
+D:1.Surgiu como um serviço de entrega de DVD pelo correio
+D:2.Um dos maiores streamers do mundo 
+D:3.Sua logo é um N vermelho
+D:4.Slogan Só na Netflix ou
+Com a Netflix, tu tens o comando
+D:5.Fundada por Reed Hastings e Marc Randolph
+P:Google
+D:1.Inicialmente chamado de PageRank
+D:2.Empresa que posssui o mais usado motor de buscado mundo
+D:3.Fundada por Larry Page e Sergey Brin
+D:4.Organiza a informação mundial e a torna universalmente acessível e útil
+D:5.Possui o Google Ads, Google Search, Google Fotos, Gmail, dentre outros.
+P:Facebook
+D:1.Uma das maiores redes sociais do mundo
+D:2.Sua logo é um quadrado azul com um F branco
+D:3Fundado por Mark Zuckerberg e Eduardo Saverin, Dustin Moskovitz e Chris Hughes.
+D:4.Empresa responsável pelo Instagram e Whatsapp
+D:5.Slogan: Facebook is a social utility that connects you with the people around you(No Facebook você pode se conectar e compartilhar o que quiser com quem é importante em sua vida)
+P:Apple
+D:1.Sua logo é uma maçã mordida
+D:2.Fundada por Steve Wozniak, Steve Jobs e Ronald Wayne
+D:3.Produtos mais conhecidos da empresa: Macintosh, iPod, iPhone, iPad, Apple TV e o Apple Watch. 
+D:4.Slogan "Think different" (Pense Diferente)
+D:5.Fracassou com a QuickTake uma das primeiras câmeras digitais voltada para o consumidor doméstico. 
+P:Microsoft
+D:1.Sua logo é um quadrado de 4 cores
+D:2.Fundada por Bil Gates e Paul Allen
+D:3.Desenvolve, fabrica, licencia, apoia e vende softwares de computador, produtos eletrônicos, computadores e serviços pessoais.
+D:4.Responsável pelo S.O Windows
+D:5.Slogan: We Innovate, You Turn(“A gente inova, você transforma”)
